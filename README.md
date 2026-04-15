@@ -4,7 +4,7 @@ This notice confirms that a Norton 360 subscription request was processed recent
 
 Billing Information
 Product Name: Norton 360 Annual Protection
-Transaction Reference: GQM94-912458
+Invoice Number: INV-54TFBH54GDF544GH
 Total Charged: $539.79 USD
 Renewal Date: 15 April 2026
 Helpline:- +1 {833} 436-8462
